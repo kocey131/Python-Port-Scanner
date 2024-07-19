@@ -14,6 +14,7 @@ This script allows users to specify a target IP address (or `localhost`) and ran
   
 - **Real-time Feedback**: The script provides real-time feedback on whether each scanned port is open or closed, making it easy to monitor the progress of the scan.
 
+- **DNS**: Now with domain name resolution!
 ## How to Use
 
 1. **Clone the Repository**: Clone or download the repository containing the script.
